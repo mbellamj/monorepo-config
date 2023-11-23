@@ -1,0 +1,17 @@
+{
+  "name": "@mono/backend",
+  "version": "0.0.0",
+  "private": true,
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it --ci"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@mono/release-it": "*"
+  }
+}

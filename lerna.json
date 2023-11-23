@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "version": "independent",
+  "packages": ["modules/*"],
+  "npmClient": "npm",
+  "command": {
+    "version": {
+      "message": "chore(release): Bumping to %s [skip ci]",
+      "conventionalCommits": true,
+      "allowBranch": ["main"]
+    }
+  }
+}
