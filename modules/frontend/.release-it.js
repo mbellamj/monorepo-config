@@ -1,1 +1,3 @@
-module.exports = require('@mono/release-it');
+import releaseIt from "'@mono/release-it'";
+
+export default releaseIt;
