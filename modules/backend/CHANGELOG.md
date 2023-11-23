@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/mbellamj/monorepo-config/compare/@mono/backend-v0.1.0...@mono/backend-v0.2.0) (2023-11-23)
+
+
+### Features
+
+* **backend:** add function caculate somme ([5bcd1d6](https://github.com/mbellamj/monorepo-config/commit/5bcd1d673514a89a06030c2f49add7575f4a8aa2))
+
 ## 0.1.0 (2023-11-23)
 
 
