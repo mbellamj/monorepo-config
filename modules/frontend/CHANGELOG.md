@@ -1,5 +1,13 @@
 
 
+## [0.2.0](https://github.com/mbellamj/monorepo-config/compare/@mono/frontend-v0.1.0...@mono/frontend-v0.2.0) (2023-11-24)
+
+
+### Features
+
+* **frontend:** update frontend ([66dd85b](https://github.com/mbellamj/monorepo-config/commit/66dd85b2eec23b1796ccfabaa866ebc3c4de3838))
+* **repo:** add semantic-release configs ([789da33](https://github.com/mbellamj/monorepo-config/commit/789da3351cac6d9d5ebd63005f8a2a6c0c48fed7))
+
 ## 0.1.0 (2023-11-23)
 
 
