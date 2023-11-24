@@ -1,5 +1,12 @@
 
 
+## [0.3.1](https://github.com/mbellamj/monorepo-config/compare/@mono/backend-v0.3.0...@mono/backend-v0.3.1) (2023-11-24)
+
+
+### Bug Fixes
+
+* **backend:** update console log ([937e4a7](https://github.com/mbellamj/monorepo-config/commit/937e4a7f22d82a5603df4c6545298f8580a8957e))
+
 ## [0.3.0](https://github.com/mbellamj/monorepo-config/compare/@mono/backend-v0.2.0...@mono/backend-v0.3.0) (2023-11-24)
 
 
