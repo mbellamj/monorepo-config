@@ -4,4 +4,4 @@ function somme(a, b) {
 
 console.log(`La somme est de : ${somme(5, 10)}`);
 
-console.log("package name =", require("./package.json").name);
+console.log("The package name =", require("./package.json").name);
