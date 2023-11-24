@@ -3,8 +3,7 @@
   "private": true,
   "workspaces": [
     "modules/*",
-    "configs/release-it",
-    "configs/semantic-release"
+    "configs/*"
   ],
   "scripts": {
     "start": "turbo start",
