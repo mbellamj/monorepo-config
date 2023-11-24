@@ -4,10 +4,9 @@
   "license": "MIT",
   "main": ".release-it.js",
   "scripts": {
-    "release-it": "release-it --ci"
+    "release": "release-it --ci"
   },
   "devDependencies": {
-    "@b12k/mvm": "0.0.10",
     "@release-it/conventional-changelog": "5.1.1",
     "release-it": "15.10.1"
   }
