@@ -1,5 +1,13 @@
 
 
+## [0.3.0](https://github.com/mbellamj/monorepo-config/compare/@mono/backend-v0.2.0...@mono/backend-v0.3.0) (2023-11-24)
+
+
+### Features
+
+* **backend:** update backend ([943e2a2](https://github.com/mbellamj/monorepo-config/commit/943e2a256993a73508b3b731031075e2fa9927c7))
+* **repo:** add semantic-release configs ([789da33](https://github.com/mbellamj/monorepo-config/commit/789da3351cac6d9d5ebd63005f8a2a6c0c48fed7))
+
 ## [0.2.0](https://github.com/mbellamj/monorepo-config/compare/@mono/backend-v0.1.0...@mono/backend-v0.2.0) (2023-11-23)
 
 
