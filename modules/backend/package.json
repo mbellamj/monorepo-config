@@ -8,8 +8,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release-it": "release-it --ci",
-    "release": "semantic-release --debug"
+    "release": "release-it --ci",
+    "sem-release": "semantic-release --debug"
   },
   "keywords": [],
   "devDependencies": {
